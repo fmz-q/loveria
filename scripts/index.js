@@ -96,7 +96,7 @@ function solo() {
     memberCall(
         "assets/gen_icon.png",
         "<a href='https://solo.to/fmzq' target='_blank' style='color: white;'>solo.fmzq</a>",
-        "."
+        "solo"
     );
 }
 
@@ -104,7 +104,7 @@ function rain() {
     memberCall(
         "assets/mew_icon.png", 
         "<a href='https://snapchat.com/@elliot_bajskorv' target='_blank' style='color: white;'>snapchat</a>, <a href='https://www.instagram.com/elliot_xeqlti/' target='_blank' style='color: white;'>instagram</a>,  <a href='https://www.roblox.com/users/958031159/profile' target='_blank' style='color: white;'>roblox </a>,  <a href='https://t.me/f_mzq' target='_blank' style='color: white;'>telegram</a>",
-        ".."
+        "rain"
     );
 }
 
@@ -112,7 +112,7 @@ function eip() {
     memberCall(
         "assets/valexnt_icon.png",
         "<a href='https://discord.com/users/1274705405322334250' target='_blank' style='color: white;'>discord</a>, <a href='https://t.me/f_mzq' target='_blank' style='color: white;'>telegram</a>",
-        "..."
+        "eip"
     );
 }
 
