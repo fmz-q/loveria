@@ -44,13 +44,13 @@ function startPage() {
     }, 1000);
     
     song.volume = 0;
-    song.playbackRate = 0.85;
+    song.playbackRate = 1.0;
     song.play();
 
     var fadeInInterval = setInterval(function () {
         song.volume += 0.1;
-        if (song.volume >= 1.0) {
-            song.volume = 1.0;
+        if (song.volume >= 0.75) {
+            song.volume = 0-75;
             clearInterval(fadeInInterval);
         }
     }, 350);
